@@ -16,5 +16,6 @@
 [1]: http://git-scm.com/book/zh/v1
 [2]: https://docs.python.org/2/tutorial/index.html
 [3]: https://docs.python.org/3/tutorial/index.html
-[4]: http://www.pythondoc.com/pythontutorial3/index.html 
-[5]: http://www.pythondoc.com/pythontutorial27/index.html
+[4]: http://www.pythondoc.com/pythontutorial27/index.html
+[5]: http://www.pythondoc.com/pythontutorial3/index.html 
+
