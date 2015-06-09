@@ -10,6 +10,9 @@
 #### C
 * [GNU C 库][6]
 
+#### Ruby
+* [Ruby wiki][7]
+*
 #### Python
 * [Python 2手册(官方版)][2] | [Python 3手册(官方版)][3]
 * [Python 2手册(中文)][4] | [Python 3手册(中文)][5]
@@ -22,4 +25,4 @@
 [4]: http://www.pythondoc.com/pythontutorial27/index.html
 [5]: http://www.pythondoc.com/pythontutorial3/index.html 
 [6]: http://www.gnu.org/software/libc/manual/html_mono/libc.html
-
+[7]: https://ruby-china.org/wiki
