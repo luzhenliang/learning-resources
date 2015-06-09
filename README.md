@@ -1,6 +1,11 @@
 # 优质学习资源
 [**优质资源**]我的学习书签.<br>
 我爱去的技术网站,我把它整理出来,希望对大家有用.
+## 开发工具
+***
+* [Emacs快速指南][10]
+* [Vim中文][11]
+* 
 #### Git
 ***
 * [Git中文教程][1]
@@ -32,3 +37,5 @@
 [7]: https://ruby-china.org/wiki
 [8]: http://www.lua.org/manual/5.1/
 [9]: http://www.rubyist.net/~slagell/ruby/getstarted.html
+[10]: http://www.cnblogs.com/youge/p/4518739.html
+[11]: http://sourceforge.net/projects/vimcdoc/files/
