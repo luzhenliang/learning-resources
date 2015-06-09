@@ -30,7 +30,7 @@
 
 [1]: http://git-scm.com/book/zh/v1                                    "Git中文教程"
 [2]: https://docs.python.org/2/tutorial/index.html                    "Python 2手册(官方版)"
-[3]: https://docs.python.org/3/tutorial/index.html                    "Python 3手册(官方版"
+[3]: https://docs.python.org/3/tutorial/index.html                    "Python 3手册(官方版)"
 [4]: http://www.pythondoc.com/pythontutorial27/index.html             "Python 2手册(中文)"
 [5]: http://www.pythondoc.com/pythontutorial3/index.html              "Python 3手册(中文)"
 [6]: http://www.gnu.org/software/libc/manual/html_mono/libc.html      "GNU C 库"
