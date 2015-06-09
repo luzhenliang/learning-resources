@@ -32,7 +32,7 @@
 [2]: https://docs.python.org/2/tutorial/index.html                    "Python 2手册(官方版)"
 [3]: https://docs.python.org/3/tutorial/index.html                    "Python 3手册(官方版"
 [4]: http://www.pythondoc.com/pythontutorial27/index.html             "Python 2手册(中文)"
-[5]: http://www.pythondoc.com/pythontutorial3/index.html              "Python 3手册(中文)]"
+[5]: http://www.pythondoc.com/pythontutorial3/index.html              "Python 3手册(中文)"
 [6]: http://www.gnu.org/software/libc/manual/html_mono/libc.html      "GNU C 库"
 [7]: https://ruby-china.org/wiki                                      "Ruby wiki"
 [8]: http://www.lua.org/manual/5.1/                                   "Lua手册(官方)"
