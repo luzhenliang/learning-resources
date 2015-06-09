@@ -28,14 +28,14 @@
 
 
 
-[1]: http://git-scm.com/book/zh/v1
-[2]: https://docs.python.org/2/tutorial/index.html
-[3]: https://docs.python.org/3/tutorial/index.html
-[4]: http://www.pythondoc.com/pythontutorial27/index.html
-[5]: http://www.pythondoc.com/pythontutorial3/index.html 
-[6]: http://www.gnu.org/software/libc/manual/html_mono/libc.html
-[7]: https://ruby-china.org/wiki
-[8]: http://www.lua.org/manual/5.1/
-[9]: http://www.rubyist.net/~slagell/ruby/getstarted.html
-[10]: http://www.cnblogs.com/youge/p/4518739.html
-[11]: http://sourceforge.net/projects/vimcdoc/files/
+[1]: http://git-scm.com/book/zh/v1                                    "Git中文教程"
+[2]: https://docs.python.org/2/tutorial/index.html                    "Python 2手册(官方版)"
+[3]: https://docs.python.org/3/tutorial/index.html                    "Python 3手册(官方版"
+[4]: http://www.pythondoc.com/pythontutorial27/index.html             "Python 2手册(中文)"
+[5]: http://www.pythondoc.com/pythontutorial3/index.html              "Python 3手册(中文)]"
+[6]: http://www.gnu.org/software/libc/manual/html_mono/libc.html      "GNU C 库"
+[7]: https://ruby-china.org/wiki                                      "Ruby wiki"
+[8]: http://www.lua.org/manual/5.1/                                   "Lua手册(官方)"
+[9]: http://www.rubyist.net/~slagell/ruby/getstarted.html             "Ruby手册(官网)"
+[10]: http://www.cnblogs.com/youge/p/4518739.html                     "Emacs快速指南"
+[11]: http://sourceforge.net/projects/vimcdoc/files/                  "Vim中文"
