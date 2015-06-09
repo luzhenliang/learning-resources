@@ -11,6 +11,7 @@
 * [GNU C 库][6]
 
 #### Ruby
+* [Ruby手册(官网)][9]
 * [Ruby wiki][7]
 
 #### Lua
@@ -30,3 +31,4 @@
 [6]: http://www.gnu.org/software/libc/manual/html_mono/libc.html
 [7]: https://ruby-china.org/wiki
 [8]: http://www.lua.org/manual/5.1/
+[9]: http://www.rubyist.net/~slagell/ruby/getstarted.html
