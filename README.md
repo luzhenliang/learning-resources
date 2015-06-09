@@ -12,7 +12,7 @@
 
 #### Ruby
 * [Ruby wiki][7]
-*
+
 #### Python
 * [Python 2手册(官方版)][2] | [Python 3手册(官方版)][3]
 * [Python 2手册(中文)][4] | [Python 3手册(中文)][5]
