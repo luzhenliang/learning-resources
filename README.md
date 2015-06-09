@@ -1,4 +1,4 @@
-# 优质学习资源[[**点击下载**]](https://github.com/luxiaoyou/bookmark/blob/master/README.md)
+# 优质学习资源
 [**优质资源**]我的学习书签.<br>
 我爱去的技术网站,我把它整理出来,希望对大家有用.
 ## 开发工具
